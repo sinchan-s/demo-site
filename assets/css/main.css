@@ -2781,8 +2781,9 @@ button,
 	top: 0;
 }
 
-.contact-method h3 {
+.contact-method h4 {
 	margin: 0 0 0.5em 0;
+	color: #000;
 }
 
 /* Header */
